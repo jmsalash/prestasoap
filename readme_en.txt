@@ -14,4 +14,6 @@ http://doc.prestashop.com/display/PS14/Chapter+1+-+Creating+Access+to+Back+Offic
  <key>LFKSDLFSDFKLSDFMSDF</key>
 </loginInfo>
 
+More information can be found in the ./docs folder - there you will find how to test the Soap server with SoapUI
+
 
